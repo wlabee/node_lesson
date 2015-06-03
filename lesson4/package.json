@@ -1,0 +1,27 @@
+{
+  "name": "lesson4",
+  "version": "1.0.0",
+  "description": "dfd",
+  "main": "index.js",
+  "scripts": {
+    "test": "dfd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:biousco/node-lessons.git"
+  },
+  "keywords": [
+    "dfl;a"
+  ],
+  "author": "d;fla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biousco/node-lessons/issues"
+  },
+  "homepage": "https://github.com/biousco/node-lessons",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "eventproxy": "^0.3.3",
+    "superagent": "^1.2.0"
+  }
+}

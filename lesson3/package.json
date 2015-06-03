@@ -1,0 +1,27 @@
+{
+  "name": "lesson3",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index,js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:biousco/node-lessons.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "biousco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biousco/node-lessons/issues"
+  },
+  "homepage": "https://github.com/biousco/node-lessons",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "express": "^4.12.4",
+    "superagent": "^1.2.0"
+  }
+}

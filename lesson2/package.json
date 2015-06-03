@@ -1,0 +1,26 @@
+{
+  "name": "lesson",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:biousco/node-lessons.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "biousco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biousco/node-lessons/issues"
+  },
+  "homepage": "https://github.com/biousco/node-lessons",
+  "dependencies": {
+    "express": "^4.12.4",
+    "utility": "^1.4.0"
+  }
+}
